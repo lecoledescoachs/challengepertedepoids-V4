@@ -1,0 +1,57 @@
+[build]
+  functions = "netlify/functions"
+  command = "node scripts/indexnow.mjs"
+
+# URL stables : on garde les adresses en .html, identiques aux balises canonical
+[build.processing.html]
+  pretty_urls = false
+
+[functions]
+  node_bundler = "esbuild"
+
+# En-têtes de sécurité, sur toutes les pages
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "geolocation=(), microphone=(), camera=()"
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains"
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://plausible.io https://www.clarity.ms https://www.googletagmanager.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; media-src 'self'; connect-src 'self' https://plausible.io https://www.clarity.ms https://www.google-analytics.com; frame-ancestors 'none'"
+
+# Mise en cache des images et polices (7 jours) pour accélérer les visites suivantes
+[[headers]]
+  for = "/photos/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+[[headers]]
+  for = "/*.png"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+[[headers]]
+  for = "/*.ico"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+[[headers]]
+  for = "/og-image.jpg"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+# Séquences d'emails automatiques : chaque matin à 8 h 30 (heure de Paris en été, 7 h 30 en hiver)
+[functions."sequences"]
+  schedule = "30 6 * * *"
+
+# Espace des guides : jamais indexé par les moteurs de recherche
+[[headers]]
+  for = "/espace/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
+    Cache-Control = "private, max-age=3600"
+
+# Une seule adresse officielle : sans www, en https
+[[redirects]]
+  from = "https://www.challengepertedepoids.fr/*"
+  to = "https://challengepertedepoids.fr/:splat"
+  status = 301
+  force = true

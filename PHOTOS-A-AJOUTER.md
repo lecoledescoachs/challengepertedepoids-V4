@@ -1,0 +1,379 @@
+# Photos à ajouter sur challengepertedepoids.fr
+
+## Voir les emplacements sur le site
+Ajoute `?photos` à la fin de l'adresse (ex. https://challengepertedepoids.fr/?photos). Chaque emplacement vide apparaît avec un cadre rose pointillé, le nom exact du fichier et le format conseillé. Le mode reste actif pendant ta navigation ; `?photos=off` pour le désactiver. Les visiteuses, elles, ne voient jamais d'emplacement vide : tant qu'une photo manque, son bloc est simplement masqué.
+
+## Règles
+- Nom de fichier exact (minuscules, sans accents), en .jpg
+- Poids : viser moins de 300 Ko par image (compresser sur squoosh.app ou tinyjpg.com)
+- Photos de personnes : uniquement avec leur accord écrit ; flouter visages et prénoms sur les captures de groupe
+
+## Page d'accueil (dossier `photos/`)
+
+- ⬜ `photos/hero.jpg` : Photo forte du hero : une challengeuse souriante ou toi en séance avec une participante · paysage 4:3, 1600×1200
+- ✅ `photos/methode-detox.jpg` (tirée des guides) : Phase détox : bol coloré, jus vert, recette du guide · 16:9
+- ✅ `photos/methode-reequilibrage.jpg` (tirée des guides) : Rééquilibrage : assiette équilibrée faite maison · 16:9
+- ✅ `photos/contenu-resultats.jpg` (tirée des guides) : Carnet de mesures, mètre ruban ou balance · 16:10
+- ✅ `photos/contenu-lives.jpg` (visuel illustré, à remplacer par une vraie capture floutée) : Capture d'un live avec Garry, visages floutés · 16:10
+- ✅ `photos/contenu-whatsapp.jpg` (visuel illustré, à remplacer par une vraie capture floutée) : Capture du groupe WhatsApp, prénoms floutés · 16:10
+- ✅ `photos/contenu-guide-detox.jpg` (tirée des guides) : Couverture ou double page du Guide Détox · 16:10
+- ✅ `photos/contenu-guide-reequilibrage.jpg` (tirée des guides) : Couverture du Guide Rééquilibrage · 16:10
+- ✅ `photos/contenu-liste-courses.jpg` (tirée des guides) : Liste de courses imprimée ou panier du marché · 16:10
+- ⬜ `photos/vie-challenge-1.jpg` : Séance de sport en groupe · portrait 4:5
+- ⬜ `photos/vie-challenge-2.jpg` : Repas du guide, joliment présenté · portrait 4:5
+- ⬜ `photos/vie-challenge-3.jpg` : Live collectif (capture floutée) · portrait 4:5
+- ⬜ `photos/vie-challenge-4.jpg` : Sourire d'une challengeuse (avec accord) · portrait 4:5
+- ⬜ `photos/vie-challenge-5.jpg` : Marché, panier de légumes · portrait 4:5
+- ⬜ `photos/vie-challenge-6.jpg` : Balade ou marche active · portrait 4:5
+- ⬜ `photos/vie-challenge-7.jpg` : Message de victoire dans le groupe (flouté) · portrait 4:5
+- ⬜ `photos/vie-challenge-8.jpg` : Toi en coaching · portrait 4:5
+- ✅ `photos/communaute-live.jpg` (visuel illustré, à remplacer par une vraie capture floutée) : Capture d'un live ou du groupe WhatsApp, visages et prénoms floutés · 4:3
+- ✅ déjà en place `photos/laetitia-avant.jpg` : Laetitia avant son accompagnement
+- ✅ déjà en place `photos/laetitia-apres.jpg` : Laetitia après son accompagnement
+- ✅ déjà en place `photos/laetitia-etape1.jpg` : Laëtitia, début de parcours
+- ✅ déjà en place `photos/laetitia-etape2.jpg` : Laëtitia, en cours de parcours
+- ✅ déjà en place `photos/laetitia-etape3.jpg` : Laëtitia, en cours de parcours
+- ✅ déjà en place `photos/laetitia-etape4.jpg` : Laëtitia, aujourd'hui
+- ✅ `photos/garry-portrait.jpg` : Garry Babaud, coach sportif
+- ⬜ `photos/celine.jpg` : Céline
+- ⬜ `photos/isabelle.jpg` : Isabelle
+- ⬜ `photos/caren.jpg` : Caren
+- ⬜ `photos/carla.jpg` : Carla
+- ⬜ `photos/tiffany-avant.jpg` : Tiffany avant le Challenge 21
+- ⬜ `photos/tiffany-apres.jpg` : Tiffany après le Challenge 21
+- ⬜ `photos/isabelle-avant.jpg` : Isabelle avant le Challenge 21
+- ⬜ `photos/isabelle-apres.jpg` : Isabelle après le Challenge 21
+- ⬜ `photos/marie-jose-avant.jpg` : Marie-José avant le Challenge 21
+- ⬜ `photos/marie-jose-apres.jpg` : Marie-José après le Challenge 21
+- ⬜ `photos/celine-avant.jpg` : Céline avant le Challenge 21
+- ⬜ `photos/celine-apres.jpg` : Céline après le Challenge 21
+- ⬜ `photos/caren-avant.jpg` : Caren avant le Challenge 21
+- ⬜ `photos/caren-apres.jpg` : Caren après le Challenge 21
+- ⬜ `photos/carla-avant.jpg` : Carla avant le Challenge 21
+- ⬜ `photos/carla-apres.jpg` : Carla après le Challenge 21
+
+## Articles du blog (dossier `photos/blog/`, 221 images)
+Une image par article, format 16:9 (1600×900). Elle sert à la fois de vignette sur l'accueil et de couverture de l'article. Le nom du fichier = le nom de la page de l'article.
+
+- ⬜ `photos/blog/age.jpg`
+- ⬜ `photos/blog/alcool.jpg`
+- ⬜ `photos/blog/aliments-a-eviter-pour-perdre-poids.jpg`
+- ⬜ `photos/blog/anxiete-alimentation-lien.jpg`
+- ⬜ `photos/blog/arreter-culpabiliser-manger.jpg`
+- ⬜ `photos/blog/arreter-de-fumer-sans-grossir.jpg`
+- ⬜ `photos/blog/arthrose-bouger-malgre-la-douleur.jpg`
+- ⬜ `photos/blog/avis-contradictoires-internet-perte-poids.jpg`
+- ⬜ `photos/blog/besoins-nutritionnels-femmes-chaque-age.jpg`
+- ⬜ `photos/blog/bien-manger-petit-budget.jpg`
+- ⬜ `photos/blog/body-positive-ou-perte-de-poids.jpg`
+- ⬜ `photos/blog/bouffees-chaleur-menopause-solutions.jpg`
+- ⬜ `photos/blog/calcium-sante-osseuse-besoins-femmes.jpg`
+- ⬜ `photos/blog/calories.jpg`
+- ⬜ `photos/blog/cellulite.jpg`
+- ⬜ `photos/blog/charge-mentale-feminine-alleger.jpg`
+- ⬜ `photos/blog/chirurgie-bariatrique-quand-envisagee.jpg`
+- ⬜ `photos/blog/combien-kilos-par-mois-raisonnable.jpg`
+- ⬜ `photos/blog/combien-temps-corps-habitue-nouveau-rythme.jpg`
+- ⬜ `photos/blog/combien-temps-sport-par-semaine.jpg`
+- ⬜ `photos/blog/combien-temps-voir-difference-photos.jpg`
+- ⬜ `photos/blog/combien-temps-voir-resultats.jpg`
+- ⬜ `photos/blog/comment-savoir-si-son-coach-est-le-bon.jpg`
+- ⬜ `photos/blog/comment-savoir-si-surpoids.jpg`
+- ⬜ `photos/blog/comment-se-motiver-sport-regulier.jpg`
+- ⬜ `photos/blog/comparaison-reseaux-sociaux-corps.jpg`
+- ⬜ `photos/blog/complements-alimentaires-brule-graisse.jpg`
+- ⬜ `photos/blog/comprendre-son-cycle-menstruel.jpg`
+- ⬜ `photos/blog/confiance-en-soi-apres-grossesse.jpg`
+- ⬜ `photos/blog/confiance.jpg`
+- ⬜ `photos/blog/contraception-hormonale-prise-de-poids.jpg`
+- ⬜ `photos/blog/craquer-le-soir-devant-la-tele.jpg`
+- ⬜ `photos/blog/cycle-irregulier-causes-frequentes.jpg`
+- ⬜ `photos/blog/detox.jpg`
+- ⬜ `photos/blog/difference-perte-poids-perte-graisse.jpg`
+- ⬜ `photos/blog/edulcorants-sans-risque.jpg`
+- ⬜ `photos/blog/emotions.jpg`
+- ⬜ `photos/blog/en-couple.jpg`
+- ⬜ `photos/blog/endometriose-activite-physique.jpg`
+- ⬜ `photos/blog/endometriose-alimentation-anti-inflammatoire.jpg`
+- ⬜ `photos/blog/estime-de-soi-au-travail-poids.jpg`
+- ⬜ `photos/blog/etirements-pourquoi-important.jpg`
+- ⬜ `photos/blog/eviter-courbatures-invalidantes-reprise.jpg`
+- ⬜ `photos/blog/expliquer-sa-perte-de-poids-sans-justifier.jpg`
+- ⬜ `photos/blog/faim-emotionnelle-solitude.jpg`
+- ⬜ `photos/blog/faux-amis.jpg`
+- ⬜ `photos/blog/fer-femmes-carences-frequentes.jpg`
+- ⬜ `photos/blog/garder-rythme-sport-vacances.jpg`
+- ⬜ `photos/blog/gerer-vacances-sans-tout-annuler.jpg`
+- ⬜ `photos/blog/grignotage.jpg`
+- ⬜ `photos/blog/grossir-en-mangeant-peu.jpg`
+- ⬜ `photos/blog/grossir-en-vieillissant-sans-rien-changer.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-aix-en-provence.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-albi.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-alencon.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-amboise.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-amiens.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-angers.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-angouleme.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-annecy.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-arles.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-avignon.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-bayonne.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-beauvais.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-besancon.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-beziers.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-blois.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-bordeaux.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-bourges.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-brest.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-caen.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-calais.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-cannes.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-carcassonne.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-chambery.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-chartres.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-chateauroux.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-cholet.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-clermont-ferrand.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-colmar.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-compiegne.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-dijon.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-dreux.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-dunkerque.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-evreux.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-gien.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-grenoble.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-issoudun.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-la-rochelle.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-laval.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-le-havre.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-le-mans.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-lille.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-limoges.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-loches.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-lorient.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-lyon.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-macon.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-marseille.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-metz.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-montargis.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-montpellier.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-mulhouse.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-nancy.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-nantes.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-narbonne.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-nice.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-nimes.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-niort.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-olivet.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-orleans.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-paris.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-pau.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-perpignan.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-poitiers.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-quimper.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-reims.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-rennes.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-roanne.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-saint-etienne.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-saint-nazaire.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-sete.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-strasbourg.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-toulon.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-toulouse.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-tours.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-troyes.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-vannes.jpg`
+- ⬜ `photos/blog/guide-perte-de-poids-vierzon.jpg`
+- ⬜ `photos/blog/hydratation.jpg`
+- ⬜ `photos/blog/index-glycemique-comprendre-simplement.jpg`
+- ⬜ `photos/blog/jeune-intermittent-efficace-femme.jpg`
+- ⬜ `photos/blog/libido-et-poids-lien.jpg`
+- ⬜ `photos/blog/lire-etiquette-nutritionnelle-facilement.jpg`
+- ⬜ `photos/blog/lire-son-corps-plutot-que-la-balance.jpg`
+- ⬜ `photos/blog/local.jpg`
+- ⬜ `photos/blog/magnesium-femmes-carences-frequentes.jpg`
+- ⬜ `photos/blog/maison-salle.jpg`
+- ⬜ `photos/blog/manger-par-faim-ou-par-habitude.jpg`
+- ⬜ `photos/blog/manger-restaurant-sans-culpabiliser.jpg`
+- ⬜ `photos/blog/manger-seule-ne-pas-se-laisser-aller.jpg`
+- ⬜ `photos/blog/marche.jpg`
+- ⬜ `photos/blog/meilleure-application-suivre-perte-de-poids.jpg`
+- ⬜ `photos/blog/menopause.jpg`
+- ⬜ `photos/blog/metabolisme-lent-comment-savoir.jpg`
+- ⬜ `photos/blog/methodes.jpg`
+- ⬜ `photos/blog/motivation.jpg`
+- ⬜ `photos/blog/musculation-femme.jpg`
+- ⬜ `photos/blog/objectif-realiste.jpg`
+- ⬜ `photos/blog/omega-3-femmes-bienfaits.jpg`
+- ⬜ `photos/blog/ovulation-energie-jours-forts.jpg`
+- ⬜ `photos/blog/pas-faim-matin-grossir-quand-meme.jpg`
+- ⬜ `photos/blog/perdre-du-ventre-rapidement-femme.jpg`
+- ⬜ `photos/blog/perdre-poids-apres-30-ans.jpg`
+- ⬜ `photos/blog/perdre-poids-apres-50-ans.jpg`
+- ⬜ `photos/blog/perdre-poids-en-dormant-plus.jpg`
+- ⬜ `photos/blog/perdre-poids-enfants-bas-age.jpg`
+- ⬜ `photos/blog/perdre-poids-hypothyroidie.jpg`
+- ⬜ `photos/blog/perdre-poids-pendant-regles.jpg`
+- ⬜ `photos/blog/perdre-poids-sans-se-peser-tous-les-jours.jpg`
+- ⬜ `photos/blog/perdre-poids-sans-sport.jpg`
+- ⬜ `photos/blog/perdre-poids-sopk.jpg`
+- ⬜ `photos/blog/perdre-poids-teletravail-sedentarite.jpg`
+- ⬜ `photos/blog/perdre-poids-vie-chargee-femme-active.jpg`
+- ⬜ `photos/blog/perdre-poids-vite-avant-evenement.jpg`
+- ⬜ `photos/blog/perdre-poids-yoga-pilates-seulement.jpg`
+- ⬜ `photos/blog/perdre-que-haut-ou-que-bas-du-corps.jpg`
+- ⬜ `photos/blog/perfectionnisme-frein-sante.jpg`
+- ⬜ `photos/blog/perte-de-poids-apres-divorce-rupture.jpg`
+- ⬜ `photos/blog/petit-dejeuner-proteine-satiete-journee.jpg`
+- ⬜ `photos/blog/petit-dejeuner.jpg`
+- ⬜ `photos/blog/plateau.jpg`
+- ⬜ `photos/blog/poids-de-forme-c-est-quoi.jpg`
+- ⬜ `photos/blog/poids-et-fertilite-lien.jpg`
+- ⬜ `photos/blog/poids-varie-beaucoup-dun-jour-a-lautre.jpg`
+- ⬜ `photos/blog/postpartum.jpg`
+- ⬜ `photos/blog/pourquoi-bras-cuisses-ne-maigrissent-pas.jpg`
+- ⬜ `photos/blog/pourquoi-pas-perdre-derniers-kilos.jpg`
+- ⬜ `photos/blog/pourquoi-pas-perdre-malgre-efforts.jpg`
+- ⬜ `photos/blog/pourquoi-stagne-le-weekend.jpg`
+- ⬜ `photos/blog/pourquoi-ventre-gonfle-apres-manger.jpg`
+- ⬜ `photos/blog/prete-a-commencer-programme-minceur.jpg`
+- ⬜ `photos/blog/probiotiques-aident-ils-perte-de-poids.jpg`
+- ⬜ `photos/blog/probiotiques-naturels-a-integrer.jpg`
+- ⬜ `photos/blog/proteines-vegetales-vs-animales-femme.jpg`
+- ⬜ `photos/blog/que-manger-le-soir-pour-perdre-du-poids.jpg`
+- ⬜ `photos/blog/quel-imc-bonne-sante-femme.jpg`
+- ⬜ `photos/blog/quel-sport-perdre-poids-rapidement.jpg`
+- ⬜ `photos/blog/regain.jpg`
+- ⬜ `photos/blog/regime-ou-sport-pour-maigrir.jpg`
+- ⬜ `photos/blog/regimes-hyperproteines-dangereux.jpg`
+- ⬜ `photos/blog/relachement-cutane-perte-poids.jpg`
+- ⬜ `photos/blog/remarques-deplacees-sur-le-poids.jpg`
+- ⬜ `photos/blog/renforcement-musculaire-debutante-femme.jpg`
+- ⬜ `photos/blog/reperer-diet-culture-toxique.jpg`
+- ⬜ `photos/blog/reprendre-poids-perdu-toujours.jpg`
+- ⬜ `photos/blog/reprise-sport.jpg`
+- ⬜ `photos/blog/respiration-gestion-du-poids.jpg`
+- ⬜ `photos/blog/retention-eau-ou-vraie-graisse.jpg`
+- ⬜ `photos/blog/role-du-foie-perte-de-poids.jpg`
+- ⬜ `photos/blog/rythme.jpg`
+- ⬜ `photos/blog/sans-priver.jpg`
+- ⬜ `photos/blog/se-fixer-des-limites-sans-culpabiliser.jpg`
+- ⬜ `photos/blog/signes-reequilibrage-alimentaire-reussi.jpg`
+- ⬜ `photos/blog/solitude-parcours-minceur.jpg`
+- ⬜ `photos/blog/sommeil.jpg`
+- ⬜ `photos/blog/sport-essentiel-sante-femmes-pas-esthetique.jpg`
+- ⬜ `photos/blog/sport-exterieur-vs-salle-bienfaits.jpg`
+- ⬜ `photos/blog/sport-fatigue-chronique-que-faire.jpg`
+- ⬜ `photos/blog/sport-groupe-motive-plus-que-solo.jpg`
+- ⬜ `photos/blog/sport-incontinence-urinaire-femmes.jpg`
+- ⬜ `photos/blog/sport-osteoporose-proteger-os-menopause.jpg`
+- ⬜ `photos/blog/stress-travail-sabote-soir.jpg`
+- ⬜ `photos/blog/stress.jpg`
+- ⬜ `photos/blog/sucre-et-acne-lien.jpg`
+- ⬜ `photos/blog/sucre.jpg`
+- ⬜ `photos/blog/symptomes-perimenopause-reconnaitre.jpg`
+- ⬜ `photos/blog/syndrome-imposteur-femmes.jpg`
+- ⬜ `photos/blog/tenir-challenge.jpg`
+- ⬜ `photos/blog/ventre.jpg`
+- ⬜ `photos/blog/vitamine-d-carence-femmes-france.jpg`
+
+## Pages villes (dossier `photos/villes/`, 3 images par ville)
+`-1` : lieu emblématique, grand format paysage 4:3 · `-2` : parc, rivière ou coin de balade · `-3` : marché ou vie locale. Privilégier tes propres photos ou des images libres de droits (Unsplash, Pexels, Wikimedia Commons avec crédit).
+
+- ⬜ `photos/villes/aix-en-provence-1.jpg`, `aix-en-provence-2.jpg`, `aix-en-provence-3.jpg`
+- ⬜ `photos/villes/albi-1.jpg`, `albi-2.jpg`, `albi-3.jpg`
+- ⬜ `photos/villes/alencon-1.jpg`, `alencon-2.jpg`, `alencon-3.jpg`
+- ⬜ `photos/villes/amboise-1.jpg`, `amboise-2.jpg`, `amboise-3.jpg`
+- ⬜ `photos/villes/amiens-1.jpg`, `amiens-2.jpg`, `amiens-3.jpg`
+- ⬜ `photos/villes/angers-1.jpg`, `angers-2.jpg`, `angers-3.jpg`
+- ⬜ `photos/villes/angouleme-1.jpg`, `angouleme-2.jpg`, `angouleme-3.jpg`
+- ⬜ `photos/villes/annecy-1.jpg`, `annecy-2.jpg`, `annecy-3.jpg`
+- ⬜ `photos/villes/arles-1.jpg`, `arles-2.jpg`, `arles-3.jpg`
+- ⬜ `photos/villes/avignon-1.jpg`, `avignon-2.jpg`, `avignon-3.jpg`
+- ⬜ `photos/villes/bayonne-1.jpg`, `bayonne-2.jpg`, `bayonne-3.jpg`
+- ⬜ `photos/villes/beauvais-1.jpg`, `beauvais-2.jpg`, `beauvais-3.jpg`
+- ⬜ `photos/villes/besancon-1.jpg`, `besancon-2.jpg`, `besancon-3.jpg`
+- ⬜ `photos/villes/beziers-1.jpg`, `beziers-2.jpg`, `beziers-3.jpg`
+- ⬜ `photos/villes/blois-1.jpg`, `blois-2.jpg`, `blois-3.jpg`
+- ⬜ `photos/villes/bordeaux-1.jpg`, `bordeaux-2.jpg`, `bordeaux-3.jpg`
+- ⬜ `photos/villes/bourges-1.jpg`, `bourges-2.jpg`, `bourges-3.jpg`
+- ⬜ `photos/villes/brest-1.jpg`, `brest-2.jpg`, `brest-3.jpg`
+- ⬜ `photos/villes/caen-1.jpg`, `caen-2.jpg`, `caen-3.jpg`
+- ⬜ `photos/villes/calais-1.jpg`, `calais-2.jpg`, `calais-3.jpg`
+- ⬜ `photos/villes/cannes-1.jpg`, `cannes-2.jpg`, `cannes-3.jpg`
+- ⬜ `photos/villes/carcassonne-1.jpg`, `carcassonne-2.jpg`, `carcassonne-3.jpg`
+- ⬜ `photos/villes/chambery-1.jpg`, `chambery-2.jpg`, `chambery-3.jpg`
+- ⬜ `photos/villes/chartres-1.jpg`, `chartres-2.jpg`, `chartres-3.jpg`
+- ⬜ `photos/villes/chateauroux-1.jpg`, `chateauroux-2.jpg`, `chateauroux-3.jpg`
+- ⬜ `photos/villes/cholet-1.jpg`, `cholet-2.jpg`, `cholet-3.jpg`
+- ⬜ `photos/villes/clermont-ferrand-1.jpg`, `clermont-ferrand-2.jpg`, `clermont-ferrand-3.jpg`
+- ⬜ `photos/villes/colmar-1.jpg`, `colmar-2.jpg`, `colmar-3.jpg`
+- ⬜ `photos/villes/compiegne-1.jpg`, `compiegne-2.jpg`, `compiegne-3.jpg`
+- ⬜ `photos/villes/dijon-1.jpg`, `dijon-2.jpg`, `dijon-3.jpg`
+- ⬜ `photos/villes/dreux-1.jpg`, `dreux-2.jpg`, `dreux-3.jpg`
+- ⬜ `photos/villes/dunkerque-1.jpg`, `dunkerque-2.jpg`, `dunkerque-3.jpg`
+- ⬜ `photos/villes/evreux-1.jpg`, `evreux-2.jpg`, `evreux-3.jpg`
+- ⬜ `photos/villes/gien-1.jpg`, `gien-2.jpg`, `gien-3.jpg`
+- ⬜ `photos/villes/grenoble-1.jpg`, `grenoble-2.jpg`, `grenoble-3.jpg`
+- ⬜ `photos/villes/issoudun-1.jpg`, `issoudun-2.jpg`, `issoudun-3.jpg`
+- ⬜ `photos/villes/la-rochelle-1.jpg`, `la-rochelle-2.jpg`, `la-rochelle-3.jpg`
+- ⬜ `photos/villes/laval-1.jpg`, `laval-2.jpg`, `laval-3.jpg`
+- ⬜ `photos/villes/le-havre-1.jpg`, `le-havre-2.jpg`, `le-havre-3.jpg`
+- ⬜ `photos/villes/le-mans-1.jpg`, `le-mans-2.jpg`, `le-mans-3.jpg`
+- ⬜ `photos/villes/lille-1.jpg`, `lille-2.jpg`, `lille-3.jpg`
+- ⬜ `photos/villes/limoges-1.jpg`, `limoges-2.jpg`, `limoges-3.jpg`
+- ⬜ `photos/villes/loches-1.jpg`, `loches-2.jpg`, `loches-3.jpg`
+- ⬜ `photos/villes/lorient-1.jpg`, `lorient-2.jpg`, `lorient-3.jpg`
+- ⬜ `photos/villes/lyon-1.jpg`, `lyon-2.jpg`, `lyon-3.jpg`
+- ⬜ `photos/villes/macon-1.jpg`, `macon-2.jpg`, `macon-3.jpg`
+- ⬜ `photos/villes/marseille-1.jpg`, `marseille-2.jpg`, `marseille-3.jpg`
+- ⬜ `photos/villes/metz-1.jpg`, `metz-2.jpg`, `metz-3.jpg`
+- ⬜ `photos/villes/montargis-1.jpg`, `montargis-2.jpg`, `montargis-3.jpg`
+- ⬜ `photos/villes/montpellier-1.jpg`, `montpellier-2.jpg`, `montpellier-3.jpg`
+- ⬜ `photos/villes/mulhouse-1.jpg`, `mulhouse-2.jpg`, `mulhouse-3.jpg`
+- ⬜ `photos/villes/nancy-1.jpg`, `nancy-2.jpg`, `nancy-3.jpg`
+- ⬜ `photos/villes/nantes-1.jpg`, `nantes-2.jpg`, `nantes-3.jpg`
+- ⬜ `photos/villes/narbonne-1.jpg`, `narbonne-2.jpg`, `narbonne-3.jpg`
+- ⬜ `photos/villes/nice-1.jpg`, `nice-2.jpg`, `nice-3.jpg`
+- ⬜ `photos/villes/nimes-1.jpg`, `nimes-2.jpg`, `nimes-3.jpg`
+- ⬜ `photos/villes/niort-1.jpg`, `niort-2.jpg`, `niort-3.jpg`
+- ⬜ `photos/villes/olivet-1.jpg`, `olivet-2.jpg`, `olivet-3.jpg`
+- ⬜ `photos/villes/orleans-1.jpg`, `orleans-2.jpg`, `orleans-3.jpg`
+- ⬜ `photos/villes/paris-1.jpg`, `paris-2.jpg`, `paris-3.jpg`
+- ⬜ `photos/villes/pau-1.jpg`, `pau-2.jpg`, `pau-3.jpg`
+- ⬜ `photos/villes/perpignan-1.jpg`, `perpignan-2.jpg`, `perpignan-3.jpg`
+- ⬜ `photos/villes/poitiers-1.jpg`, `poitiers-2.jpg`, `poitiers-3.jpg`
+- ⬜ `photos/villes/quimper-1.jpg`, `quimper-2.jpg`, `quimper-3.jpg`
+- ⬜ `photos/villes/reims-1.jpg`, `reims-2.jpg`, `reims-3.jpg`
+- ⬜ `photos/villes/rennes-1.jpg`, `rennes-2.jpg`, `rennes-3.jpg`
+- ⬜ `photos/villes/roanne-1.jpg`, `roanne-2.jpg`, `roanne-3.jpg`
+- ⬜ `photos/villes/saint-etienne-1.jpg`, `saint-etienne-2.jpg`, `saint-etienne-3.jpg`
+- ⬜ `photos/villes/saint-nazaire-1.jpg`, `saint-nazaire-2.jpg`, `saint-nazaire-3.jpg`
+- ⬜ `photos/villes/sete-1.jpg`, `sete-2.jpg`, `sete-3.jpg`
+- ⬜ `photos/villes/strasbourg-1.jpg`, `strasbourg-2.jpg`, `strasbourg-3.jpg`
+- ⬜ `photos/villes/toulon-1.jpg`, `toulon-2.jpg`, `toulon-3.jpg`
+- ⬜ `photos/villes/toulouse-1.jpg`, `toulouse-2.jpg`, `toulouse-3.jpg`
+- ⬜ `photos/villes/tours-1.jpg`, `tours-2.jpg`, `tours-3.jpg`
+- ⬜ `photos/villes/troyes-1.jpg`, `troyes-2.jpg`, `troyes-3.jpg`
+- ⬜ `photos/villes/vannes-1.jpg`, `vannes-2.jpg`, `vannes-3.jpg`
+- ⬜ `photos/villes/vierzon-1.jpg`, `vierzon-2.jpg`, `vierzon-3.jpg`
+
+## Nouveaux emplacements (accueil)
+
+### Vidéo du hero (dossier `videos/`)
+- ⬜ `videos/hero.mp4` : 10 à 15 s, muette, en boucle, moins de 4 Mo, paysage. Sourires de Challengeuses, repas du guide, extrait de live, toi en coaching. Elle remplace automatiquement `photos/hero.jpg` dès qu'elle est en ligne.
+
+### Mur de visages (dossier `photos/`, portrait 4:5, avec accord écrit)
+La section n'apparaît qu'à partir de 3 visages en ligne.
+- ✅ `photos/laetitia-etape4.jpg` (déjà en place, mais basse résolution : une photo nette serait mieux)
+- ⬜ `photos/tiffany.jpg` · ⬜ `photos/isabelle.jpg` · ⬜ `photos/marie-jose.jpg` · ⬜ `photos/celine.jpg` · ⬜ `photos/caren.jpg` · ⬜ `photos/carla.jpg`
+
+### Témoignages vidéo (vertical 9:16, 20 à 30 s, filmés au téléphone)
+La section n'apparaît qu'à partir d'une vidéo en ligne.
+- ⬜ `videos/temoignage-1.mp4` + image `photos/temoignage-1.jpg`
+- ⬜ `videos/temoignage-2.mp4` + image `photos/temoignage-2.jpg`
+- ⬜ `videos/temoignage-3.mp4` + image `photos/temoignage-3.jpg`
+- ⬜ `videos/temoignage-4.mp4` + image `photos/temoignage-4.jpg`
+
+### Section « Au menu » (dossier `photos/menu/`)
+- ✅ 13 photos de plats tirées des guides (superbowl, tartine pizza, smoothie, brochettes, Caesar, pancakes, salade de fruits, granola, boules d'énergie, muffins, eau détox, salade gourmande, porridge). Pour remplacer une photo par la tienne, garde simplement le même nom de fichier.

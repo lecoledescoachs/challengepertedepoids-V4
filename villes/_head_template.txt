@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>__TITLE__</title>
+<meta name="description" content="__DESC__">
+<link rel="canonical" href="__CANON__">
+<meta name="robots" content="index, follow">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script type="application/ld+json">__ARTSCHEMA__</script>
+<script type="application/ld+json">__BREADSCHEMA__</script>
+<style>
+:root {
+  --framboise: #A8134F; --framboise-soft: #F3D3E1; --corail: #E8674A; --corail-soft: #FBE3DA;
+  --prune: #2E1B33; --rose-poudre: #F3DCE4; --lilas: #E9DEF0; --creme: #FBF3EA; --blanc-casse: #FFFCF8; --anthracite: #3D3438;
+  --paper: var(--creme); --paper-alt: var(--rose-poudre); --paper-card: var(--blanc-casse);
+  --ink: var(--anthracite); --ink-soft: #6B5E63; --accent: var(--framboise); --accent-ink: #FFFFFF; --accent-soft: var(--framboise-soft);
+  --line: rgba(46,27,51,0.13);
+  box-sizing: border-box; padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { --creme: #221720; --rose-poudre: #2D2030; --blanc-casse: #2D2030; --anthracite: #F1E7EC; --ink-soft: #C6B7C6; --framboise: #F0619A; --framboise-soft: #3D2530; --accent-ink: #221720; --line: rgba(241,231,236,0.16); }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: 'Public Sans', -apple-system, BlinkMacSystemFont, sans-serif; font-size: 17px; line-height: 1.65; }
+h1, h2, h3, .serif { font-family: 'Fraunces', Georgia, serif; font-weight: 600; line-height: 1.2; letter-spacing: -0.01em; margin: 0; color: var(--ink); }
+.wrap { max-width: 760px; margin: 0 auto; padding: 0 22px; }
+.top-bar { padding: 18px 0; border-bottom: 1px solid var(--line); }
+.top-bar .wrap { display: flex; align-items: center; justify-content: space-between; }
+.logo { font-family: 'Fraunces', serif; font-weight: 600; font-size: 1.1rem; color: var(--ink); text-decoration: none; }
+.logo span { color: var(--accent); }
+.back-link { font-size: 0.86rem; color: var(--ink-soft); text-decoration: none; }
+.breadcrumb { font-size: 0.8rem; color: var(--ink-soft); padding: 18px 0 0; }
+.breadcrumb a { color: var(--ink-soft); text-decoration: none; }
+.breadcrumb a:hover { color: var(--accent); }
+.ville-kicker { display: inline-block; font-size: 0.76rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.03em; color: var(--accent); background: var(--accent-soft); padding: 5px 12px; border-radius: 100px; margin: 16px 0 10px; }
+h1.ville-title { font-size: clamp(1.7rem, 4.5vw, 2.3rem); margin: 6px 0 10px; }
+.ville-meta-line { color: var(--ink-soft); font-size: 0.9rem; margin-bottom: 24px; }
+.content h2 { font-family: 'Fraunces', serif; font-weight: 600; font-size: 1.3rem; margin: 30px 0 10px; color: var(--accent); }
+.content h3 { font-family: 'Fraunces', serif; font-weight: 600; font-size: 1.1rem; margin: 22px 0 6px; }
+.content p { color: var(--ink-soft); margin: 8px 0; }
+.content ul { color: var(--ink-soft); padding-left: 20px; }
+.content li { margin: 4px 0; }
+.ville-stats { display: flex; gap: 24px; flex-wrap: wrap; margin: 20px 0 28px; }
+.ville-stats div { min-width: 110px; }
+.ville-stats strong { display: block; font-family: 'Fraunces', serif; font-size: 1.5rem; color: var(--accent); }
+.ville-stats span { font-size: 0.78rem; color: var(--ink-soft); }
+.ville-faq { margin: 28px 0; }
+.ville-faq details { background: var(--paper-card); border: 1px solid var(--line); border-radius: 12px; padding: 14px 18px; margin-bottom: 10px; }
+.ville-faq summary { font-weight: 600; cursor: pointer; color: var(--ink); font-size: 0.96rem; }
+.ville-faq p { margin-top: 8px; }
+.btn-primary { display: inline-block; background: var(--accent); color: var(--accent-ink); text-decoration: none; font-weight: 700; padding: 12px 24px; border-radius: 100px; margin: 22px 0; }
+.js-open-quiz.btn-primary { border: none; font: inherit; font-weight: 700; cursor: pointer; }
+.ville-callout { background: var(--paper-alt); border-radius: 14px; padding: 18px 22px; margin: 24px 0; font-style: italic; font-family: 'Fraunces', serif; color: var(--ink); }
+.ville-related { margin-top: 28px; padding-top: 20px; border-top: 1px solid var(--line); }
+.related-label { font-size: 0.82rem; font-weight: 600; color: var(--ink-soft); margin-bottom: 8px; }
+.ville-related ul { list-style: none; padding: 0; margin: 0; }
+.ville-related li { margin: 6px 0; }
+.ville-related a { color: var(--accent); text-decoration: none; font-size: 0.92rem; }
+footer { border-top: 1px solid var(--line); padding: 24px 0; text-align: center; margin-top: 40px; }
+footer p { color: var(--ink-soft); font-size: 0.82rem; margin: 0; }
+.ville-carousel { position: relative; margin: 20px 0 30px; border-radius: 16px; overflow: hidden; aspect-ratio: 16/9; background: var(--paper-alt); }
+.ville-carousel-track { display: flex; height: 100%; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; }
+.ville-carousel-track::-webkit-scrollbar { display: none; }
+.ville-carousel-track img { flex: 0 0 100%; width: 100%; height: 100%; object-fit: cover; scroll-snap-align: start; }
+.ville-carousel-dots { position: absolute; bottom: 12px; left: 0; right: 0; display: flex; justify-content: center; gap: 6px; }
+.ville-carousel-dots span { width: 7px; height: 7px; border-radius: 50%; background: rgba(255,255,255,0.6); }
+.ville-carousel-empty { display: flex; align-items: center; justify-content: center; height: 100%; color: var(--ink-soft); font-size: 0.85rem; font-style: italic; }
+.ville-summary { background: var(--paper-alt); border-radius: 12px; padding: 14px 18px; font-size: 0.95rem; color: var(--ink); margin: 0 0 22px; }
+</style>
+</head>
+<body>
+<div class="top-bar">
+  <div class="wrap">
+    <a class="logo" href="../index.html">Challenge<span>21</span></a>
+    <a class="back-link" href="../index.html">← Retour à l'accueil</a>
+  </div>
+</div>
+<div class="wrap">
+  <nav class="breadcrumb" aria-label="Fil d'Ariane">
+    <a href="../index.html">Accueil</a> / __VILLE__
+  </nav>
+  <span class="ville-kicker">__KICKER__</span>
+  <h1 class="ville-title">__H1__</h1>
+  <p class="ville-meta-line">Par Garry Babaud · Coach sportif certifié STAPS · Mis à jour le 25 septembre 2026</p>
+  <div class="content">

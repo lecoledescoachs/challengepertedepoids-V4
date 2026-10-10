@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Mentions légales : Challenge 21</title>
+<meta name="robots" content="noindex, follow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --paper: #F7F2F5; --paper-alt: #EDE0E7; --paper-card: #FFFFFF;
+  --ink: #241A2E; --ink-soft: #5B4C63; --accent: #C62368;
+  --accent-ink: #FFFFFF; --accent-soft: #F3D3E1; --line: rgba(36,26,46,0.14);
+  box-sizing: border-box; padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #1A1420; --paper-alt: #251C2C; --paper-card: #251C2C;
+    --ink: #F1E7EC; --ink-soft: #C6B7C6; --accent: #F0619A;
+    --accent-ink: #1A1420; --accent-soft: #3D2530; --line: rgba(241,231,236,0.16);
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #1A1420; --paper-alt: #251C2C; --paper-card: #251C2C;
+  --ink: #F1E7EC; --ink-soft: #C6B7C6; --accent: #F0619A;
+  --accent-ink: #1A1420; --accent-soft: #3D2530; --line: rgba(241,231,236,0.16);
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: 'Public Sans', -apple-system, BlinkMacSystemFont, sans-serif; font-size: 17px; line-height: 1.65; -webkit-font-smoothing: antialiased; overflow-x: hidden; }
+h1, h2, .serif { font-family: 'Fraunces', Georgia, serif; font-weight: 600; line-height: 1.2; letter-spacing: -0.01em; margin: 0; color: var(--ink); }
+a { color: var(--accent); }
+.wrap { max-width: 760px; margin: 0 auto; padding: 0 22px; }
+.top-bar { padding: 18px 0; border-bottom: 1px solid var(--line); }
+.top-bar .wrap { display: flex; align-items: center; justify-content: space-between; }
+.logo { font-family: 'Fraunces', serif; font-weight: 600; font-size: 1.1rem; color: var(--ink); text-decoration: none; }
+.logo span { color: var(--accent); }
+.back-link { font-size: 0.88rem; color: var(--ink-soft); text-decoration: none; }
+.back-link:hover { color: var(--ink); }
+.hero { padding: 44px 0 8px; }
+.hero .kicker { display: inline-block; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: var(--accent); background: var(--accent-soft); padding: 6px 14px; border-radius: 100px; margin-bottom: 16px; }
+.hero h1 { font-size: clamp(1.7rem, 4vw, 2.2rem); }
+.hero .updated { color: var(--ink-soft); font-size: 0.85rem; margin-top: 10px; }
+.legal-nav { display: flex; gap: 10px; flex-wrap: wrap; padding: 20px 0 10px; }
+.legal-nav a { font-size: 0.82rem; color: var(--ink-soft); text-decoration: none; background: var(--paper-alt); padding: 6px 12px; border-radius: 100px; }
+.legal-nav a.active { background: var(--accent); color: var(--accent-ink); }
+.content { padding: 24px 0 60px; }
+.content h2 { font-size: 1.05rem; margin: 32px 0 6px; color: var(--accent); }
+.content h2:first-child { margin-top: 0; }
+.content h3 { font-family: 'Fraunces', serif; font-weight: 600; font-size: 1.02rem; margin: 20px 0 4px; }
+.content p { color: var(--ink-soft); margin: 8px 0; }
+.content ul { color: var(--ink-soft); padding-left: 20px; margin: 8px 0; }
+.content li { margin: 4px 0; }
+.content strong { color: var(--ink); }
+.info-card { background: var(--paper-card); border: 1px solid var(--line); border-radius: 14px; padding: 18px 20px; margin: 10px 0 18px; }
+.info-card p { margin: 2px 0; }
+.offer-table { width: 100%; border-collapse: collapse; margin: 14px 0; font-size: 0.92rem; }
+.offer-table th, .offer-table td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--line); color: var(--ink-soft); }
+.offer-table th { color: var(--ink); font-weight: 600; }
+footer { border-top: 1px solid var(--line); padding: 24px 0; text-align: center; }
+footer p { color: var(--ink-soft); font-size: 0.82rem; margin: 0; }
+</style>
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="theme-color" content="#221720">
+<meta property="og:image" content="https://challengepertedepoids.fr/og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Challenge 21 : perds 2 à 5 kg en 21 jours, avec des photos de recettes du programme">
+<meta name="twitter:image" content="https://challengepertedepoids.fr/og-image.jpg">
+<meta property="og:site_name" content="Challenge 21">
+<meta name="twitter:card" content="summary_large_image">
+<meta property="og:title" content="Mentions légales : Challenge 21">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="fr_FR">
+<script defer src="/analytics.js"></script>
+<script defer src="/share.js"></script>
+</head>
+<body>
+<div class="top-bar">
+  <div class="wrap">
+    <a class="logo" href="index.html">Challenge<span>21</span></a>
+    <a class="back-link" href="index.html">← Retour</a>
+  </div>
+</div>
+<div class="wrap">
+  <div class="legal-nav">
+    <a href="mentions-legales.html" class="active">Mentions légales</a>
+    <a href="cgv.html" >CGV</a>
+    <a href="cgu.html" >CGU</a>
+    <a href="confidentialite.html" >Confidentialité</a>
+  </div>
+</div>
+<div class="wrap">
+  <div class="hero">
+    <span class="kicker">Informations légales</span>
+    <h1>Mentions légales</h1>
+    <p class="updated">Dernière mise à jour : septembre 2026</p>
+  </div>
+  <div class="content">
+<h2>Éditeur du site</h2>
+<div class="info-card">
+  <p><strong>Garry BABAUD</strong>, exerçant sous le nom commercial GA Coachs</p>
+  <p>Entreprise Individuelle (EI), SIRET : 832 643 092 00014</p>
+  <p>Adresse : 62 Rue Guyenne, 45160 Olivet, France<br>TVA : non applicable, article 261-4-4° b du CGI</p>
+  <p>Téléphone : 07 69 85 92 56</p>
+  <p>Email : ga.coachs@gmail.com</p>
+</div>
+
+<h2>Assurance responsabilité civile professionnelle</h2>
+<p>Souscrite auprès d'<strong>Orus</strong>, couvrant l'activité de coaching sportif et d'accompagnement à la perte de poids.</p>
+
+<h2>Directeur de la publication</h2>
+<p>Garry Babaud</p>
+
+<h2>Hébergement</h2>
+<p>Le site est hébergé par Netlify, Inc.<br>44 Montgomery Street, Suite 300, San Francisco, California 94104, États-Unis<br>Site web : www.netlify.com</p>
+
+<h2>Propriété intellectuelle</h2>
+<p>L'ensemble des contenus présents sur ce site (textes, images, vidéos, logo, charte graphique) est la propriété exclusive de Garry Babaud / GA Coachs, sauf mention contraire. Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite sans autorisation écrite préalable.</p>
+
+<h2>Médiation de la consommation</h2>
+<p>Conformément à l'article L.616-1 du Code de la consommation, en cas de litige non résolu directement avec GA Coachs, le client peut recourir gratuitement au service de médiation suivant :</p>
+<div class="info-card">
+  <p><strong>CM2C</strong> : Centre de la Médiation de la Consommation de Conciliateurs de Justice</p>
+  <p>49 rue de Ponthieu, 75008 Paris</p>
+  <p>Site web : <a href="https://www.cm2c.net" target="_blank" rel="noopener">www.cm2c.net</a></p>
+  <p>Saisine en ligne via le formulaire disponible sur le site, après tentative préalable de résolution directe du litige avec GA Coachs.</p>
+</div>
+  </div>
+</div>
+<footer>
+  <p>Challenge 21 : Perds 2 à 5 kg en 21 jours · Garry Babaud, coach sportif</p>
+</footer>
+</body>
+</html>
